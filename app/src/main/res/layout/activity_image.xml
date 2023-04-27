@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.ImageActivity"
+    android:background="@color/backgroundcolor">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/cardbackground">
+
+        <android.support.v7.widget.Toolbar
+            app:title="@string/app_name"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:id="@+id/toolbar2"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            android:elevation="4dp"
+            />
+
+        </android.support.design.widget.AppBarLayout>
+
+
+
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_marginTop="57dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="0dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:layout_marginRight="0dp"
+        android:paddingBottom="0dp"
+        android:layout_marginLeft="0dp"
+        android:id="@+id/selected_image">
+
+    </ImageView>
+
+    <ProgressBar
+        android:id="@+id/progressbarimg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        android:layout_gravity="center"/>
+
+    <include layout="@layout/content_image" />
+
+        <com.getbase.floatingactionbutton.FloatingActionsMenu
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_addButtonColorNormal="@color/cardbackground"
+            app:fab_addButtonColorPressed="@color/backgroundcolor"
+            app:fab_addButtonPlusIconColor="@color/textcolor"
+            android:layout_gravity="bottom|end"
+            app:fab_labelStyle="@style/custom_fab">
+
+            <com.getbase.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fab_background"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:fab_colorNormal="@color/cardbackground"
+                app:fab_colorPressed="@color/backgroundcolor"
+                app:fab_icon="@drawable/ic_setbackground"
+                app:fab_size="mini"
+                app:fab_title="Set Wallpaper"
+                />
+            <com.getbase.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fab_share"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:fab_colorNormal="@color/cardbackground"
+                app:fab_colorPressed="@color/backgroundcolor"
+                app:fab_icon="@drawable/ic_share_img"
+                app:fab_size="mini"
+                app:fab_title="Share"
+                />
+            <com.getbase.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fab_save"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:fab_colorPressed="@color/backgroundcolor"
+                app:fab_colorNormal="@color/cardbackground"
+                app:fab_icon="@drawable/ic_download_img"
+                app:fab_size="mini"
+                app:fab_title="Save"
+                />
+
+        </com.getbase.floatingactionbutton.FloatingActionsMenu>
+
+
+
+
+
+
+
+
+
+</android.support.design.widget.CoordinatorLayout>

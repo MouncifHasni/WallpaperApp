@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "278033932031",
+    "firebase_url": "https://mywallpaperapp-c799b.firebaseio.com",
+    "project_id": "mywallpaperapp-c799b",
+    "storage_bucket": "mywallpaperapp-c799b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278033932031:android:b56b40b8f797ceb8",
+        "android_client_info": {
+          "package_name": "com.mhwallpapers.root.wallpapersworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278033932031-lq12mvitu3rcbenm403lcgf9mcs55arf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhwallpapers.root.wallpapersworld",
+            "certificate_hash": "628c6a0e43a990811453d9f1b8174e2ee50a3843"
+          }
+        },
+        {
+          "client_id": "278033932031-7aloecm1mgga45poq9335ahjclc7gjh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhwallpapers.root.wallpapersworld",
+            "certificate_hash": "ea1364f9a4563d2bf49dd5ecaa6ecfce89870b0f"
+          }
+        },
+        {
+          "client_id": "278033932031-iglq12m900io3kakcpa0vvf5pnbcblkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhwallpapers.root.wallpapersworld",
+            "certificate_hash": "1c0ea0c1d83f2bfbbd50bd6a15c8eb3edad59465"
+          }
+        },
+        {
+          "client_id": "278033932031-0si0evorkucce7mpblqbtb99c0rqpt5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN8UhHqZP-ZF31QFurAM4nxhuNk-3t-Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278033932031-0si0evorkucce7mpblqbtb99c0rqpt5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1884895970372141~8374615282"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278033932031:android:a9885fc67f72c1e2",
+        "android_client_info": {
+          "package_name": "com.redzone.animewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278033932031-rrhuova23kqjkn162v7qqlhiudsvin7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redzone.animewallpaper",
+            "certificate_hash": "5e4b999fd80a51b9e346de904434ffdab481f570"
+          }
+        },
+        {
+          "client_id": "278033932031-2qbp2tvmt1u9ghs1ge481ghkgtr00dgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redzone.animewallpaper",
+            "certificate_hash": "7f8b53a7370745133d7b3b9f21d19698b68dac3e"
+          }
+        },
+        {
+          "client_id": "278033932031-q7di4j6c1age7cf217t9m694migc7sa8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redzone.animewallpaper",
+            "certificate_hash": "1c0ea0c1d83f2bfbbd50bd6a15c8eb3edad59465"
+          }
+        },
+        {
+          "client_id": "278033932031-0si0evorkucce7mpblqbtb99c0rqpt5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN8UhHqZP-ZF31QFurAM4nxhuNk-3t-Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278033932031-0si0evorkucce7mpblqbtb99c0rqpt5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278033932031:android:4e9c75467c64b9fd",
+        "android_client_info": {
+          "package_name": "com.redzone.animewallpaperotaku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278033932031-s010fu6o5kvabp3cqajoo3tvonm6grj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redzone.animewallpaperotaku",
+            "certificate_hash": "1c0ea0c1d83f2bfbbd50bd6a15c8eb3edad59465"
+          }
+        },
+        {
+          "client_id": "278033932031-0si0evorkucce7mpblqbtb99c0rqpt5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN8UhHqZP-ZF31QFurAM4nxhuNk-3t-Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278033932031-0si0evorkucce7mpblqbtb99c0rqpt5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

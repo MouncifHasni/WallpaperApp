@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Anime Wallpaper Otaku</string>
+    <string name="app_version">1.0</string>
+    <string name="app_company">redZone Apps</string>
+
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="file_provider_authority"
+        translatable="false">com.redzone.animewallpaperotaku.fileprovider</string>
+
+</resources>
